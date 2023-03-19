@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/unit-vs-int-master/unit-vs-int.iml" filepath="$PROJECT_DIR$/unit-vs-int-master/unit-vs-int.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/unit-vs-int-master.iml" filepath="$PROJECT_DIR$/.idea/unit-vs-int-master.iml" />
+    </modules>
+  </component>
+</project>
